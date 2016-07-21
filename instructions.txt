@@ -1,0 +1,4 @@
+- pip install -r requirements.txt
+- python example.py -u myUsername -p myPassword -l "your location, worldwide "-st 10
+- go to http://localhost:5000
+- wait till it says completed 100% and it will show the map
